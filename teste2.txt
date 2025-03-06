@@ -1,1 +1,2 @@
 "conteudo inicial de teste2" 
+"correcao de bug no teste2" 
